@@ -1,0 +1,16 @@
+file 'p1.png'
+duration 1
+file 'j4.png'
+duration 1
+file 'b.png'
+duration 1
+file 'b1.png'
+duration 1
+file 's4.png'
+duration 1
+file 's3.png'
+duration 1
+file 'b3.png'
+duration 1
+file 'j1.png'
+duration 1
